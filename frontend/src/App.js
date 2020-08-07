@@ -5,7 +5,8 @@ import Navigation from './components/Navigation.js';
 function App() {
   return (
     <div className="App">
-      <Navigation />
+
+<Navigation />
       <header className="App-header">
         <p>
           Edit <code>src/App.js</code> and save to reload.

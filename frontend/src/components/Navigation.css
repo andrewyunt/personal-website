@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+.visible-nav {
+    background-color: white;
+}
+
+.invisible-nav a {
+    color: white;
+}
+
+.visible-nav a {
+    color: black;
+}
+
+.navbar-brand {
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 18px !important;
+}
+
+.navbar a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+}
