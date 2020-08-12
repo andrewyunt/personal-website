@@ -7,6 +7,9 @@ function App() {
     <div className="App">
 
 <Navigation />
+<div class="content">
+  
+</div>
       <header className="App-header">
         <p>
           Edit <code>src/App.js</code> and save to reload.
